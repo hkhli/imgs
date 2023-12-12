@@ -4,7 +4,7 @@
 
 ---
 
-[芙芙](https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp)
+![芙芙](https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp)
 
 ### 1. 直链
 
