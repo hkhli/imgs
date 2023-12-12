@@ -4,7 +4,7 @@
 
 ---
 
-![](https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp)
+<img src="https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp" />
 
 ### 1. 直链
 
@@ -15,7 +15,7 @@
 # https://raw.githubusercontent.com/{{owner}}/{{repo}}/{{branch}}/{{filePath}}
 ```
 
-![直链](https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp)
+<img src="https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp" alt="直链" />
 
 </details>
 
@@ -35,7 +35,7 @@
 # https://mirror.ghproxy.com/{{直链}}
 ```
 
-![ghproxy](https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp)
+<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp" alt="ghproxy" />
 
 </details>
 
@@ -51,7 +51,7 @@
 # https://cdn.jsdelivr.net/gh/{{owner}}/{{repo}}@{{branch}}/{{filePath}}
 ```
 
-![jsDelivr](https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp)
+<img src="https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp" alt="jsDelivr" />
 
 </details>
 
@@ -67,7 +67,7 @@
 # https://jsd.cdn.zzko.cn/gh/{{owner}}/{{repo}}@{{branch}}/{{filePath}}
 ```
 
-![ChinaJsDelivr](https://jsd.cdn.zzko.cn/gh/hkhli/imgs@main/fufu.webp)
+<img src="https://jsd.cdn.zzko.cn/gh/hkhli/imgs@main/fufu.webp" alt="ChinaJsDelivr" />
 
 </details>
 
@@ -89,9 +89,9 @@
 # https://github.moeyy.xyz/{{直链}}
 ```
 
-![moeyy](https://github.moeyy.xyz/https://github.com/hkhli/imgs/blob/main/fufu.webp)
+<img src="https://github.moeyy.xyz/https://github.com/hkhli/imgs/blob/main/fufu.webp" alt="moeyy" />
 
-![moeyy](https://github.moeyy.xyz/https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp)
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp" alt="moeyy" />
 
 </details>
 
