@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp" />
+[芙芙](https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp)
 
 ### 1. 直链
 
@@ -15,7 +15,7 @@
 # https://raw.githubusercontent.com/{{owner}}/{{repo}}/{{branch}}/{{filePath}}
 ```
 
-<img src="https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp" alt="直链" />
+![直链](https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp)
 
 </details>
 
@@ -35,7 +35,7 @@
 # https://mirror.ghproxy.com/{{直链}}
 ```
 
-<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp" alt="ghproxy" />
+![ghproxy](https://mirror.ghproxy.com/https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp)
 
 </details>
 
@@ -51,7 +51,7 @@
 # https://cdn.jsdelivr.net/gh/{{owner}}/{{repo}}@{{branch}}/{{filePath}}
 ```
 
-<img src="https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp" alt="jsDelivr" />
+![jsDelivr](https://cdn.jsdelivr.net/gh/hkhli/imgs@main/fufu.webp)
 
 </details>
 
@@ -64,10 +64,11 @@
 - [x] 是否支持获取单个文件
 
 ```shell
+# GitHub无法获取该图片，无法显示
 # https://jsd.cdn.zzko.cn/gh/{{owner}}/{{repo}}@{{branch}}/{{filePath}}
 ```
 
-<img src="https://jsd.cdn.zzko.cn/gh/hkhli/imgs@main/fufu.webp" alt="ChinaJsDelivr" />
+![ChinaJsDelivr](https://jsd.cdn.zzko.cn/gh/hkhli/imgs@main/fufu.webp)
 
 </details>
 
@@ -89,9 +90,9 @@
 # https://github.moeyy.xyz/{{直链}}
 ```
 
-<img src="https://github.moeyy.xyz/https://github.com/hkhli/imgs/blob/main/fufu.webp" alt="moeyy" />
+![moeyy](https://github.moeyy.xyz/https://github.com/hkhli/imgs/blob/main/fufu.webp)
 
-<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp" alt="moeyy" />
+![moeyy](https://github.moeyy.xyz/https://raw.githubusercontent.com/hkhli/imgs/main/fufu.webp)
 
 </details>
 
