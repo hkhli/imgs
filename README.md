@@ -69,7 +69,8 @@
 ```
 
 ![ChinaJsDelivr](https://jsd.cdn.zzko.cn/gh/hkhli/imgs@main/fufu.webp)
-[如果无法显示，点击此处跳转查看](https://jsd.cdn.zzko.cn/gh/hkhli/imgs@main/fufu.webp)
+
+<a href="https://jsd.cdn.zzko.cn/gh/hkhli/imgs@main/fufu.webp" target="_blank">如果无法显示，点击此处跳转查看</a>
 
 </details>
 
